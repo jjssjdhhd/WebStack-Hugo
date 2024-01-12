@@ -3,19 +3,19 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 关注我们
+    - title: 老狗博客
       logo: ""
-      url: https://bioitee.com
+      url: https://laogou717.com/
       qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
-    - title: 语雀
+      description:  爱好者！
+    - title: ping
       logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
+      url: https://ping.chinaz.com/
+      description: 检测ping。
+    - title: notion
       logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+      url: https://www.notion.so/
+      description: 一款笔记软件。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
